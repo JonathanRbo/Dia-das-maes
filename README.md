@@ -1,4 +1,4 @@
-# Para a Angélica 💗
+# Para a Angelica 💗
 
 Um site de Dia das Mães feito com carinho, do filho pra mãe.
 
@@ -6,7 +6,7 @@ Um site de Dia das Mães feito com carinho, do filho pra mãe.
 
 ## Sobre
 
-Página estática em HTML/CSS/JS criada como homenagem para a minha mãe, **Angélica**, no Dia das Mães. Conta um pouquinho da nossa história em fotos e palavras.
+Página estática em HTML/CSS/JS criada como homenagem para a minha mãe, **Angelica**, no Dia das Mães. Conta um pouquinho da nossa história em fotos e palavras.
 
 ## Como ver
 
